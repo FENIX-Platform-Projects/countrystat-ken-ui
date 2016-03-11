@@ -30,7 +30,7 @@ define(['jquery', 'fx-submodules/config/baseConfig'],
         cfg.SITE_TEMPLATE = 'topmenu';
 
 
-        cfg.DSD_EDITOR_CONTEXT_SYSTEM = "cstat_zmb";
+        cfg.DSD_EDITOR_CONTEXT_SYSTEM = "cstat_ken";
         cfg.DSD_EDITOR_DATASOURCES = ["D3S"];
 
         //cfg.METADATA_EDITOR_AJAX_EVENT_CALL = "config/submodules/metadataEditor/fx-editor-ajax-config_PROD.json";
